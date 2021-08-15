@@ -1,11 +1,11 @@
 
-from life import experience
-i = experience();
-i.am = ['hacker', 'teacher', 'knife_maker'];
-i.usedTo = ['save_lives', 'hunt_badguys', 'take_chances'];
-i.love = ['God', 'solving_problems', 'dogs', 'tacos', 'spousal_unit'];
-i.wantTo = ['learn_more', 'help_more', 'live_more'];
-print('Hello! ' + i() + ' am Kino Davis')
+from life import experience<br>
+i = experience();<br>
+i.am = ['hacker', 'teacher', 'knife_maker'];<br>
+i.usedTo = ['save_lives', 'hunt_badguys', 'take_chances'];<br>
+i.love = ['God', 'solving_problems', 'dogs', 'tacos', 'spousal_unit'];<br>
+i.wantTo = ['learn_more', 'help_more', 'live_more'];<br>
+print('Hello! ' + i() + ' am Kino Davis')<br>
 
 <!---
 - 👋 Hi, I’m @KinoDavis
